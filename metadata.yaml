@@ -1,0 +1,30 @@
+_repo: '---_25218'
+_version: 0.1.0
+alternative_title: Liu Yi Ci
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ouyang, Xiu
+    aliases:
+    - 歐陽脩
+    - 歐陽修
+    birthdate: 1007
+    deathdate: 1072
+    gutenberg_agent_id: '31150'
+    url: http://www.gutenberg.org/2009/agents/31150
+description: ''
+gutenberg_issued: '2008-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25218'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ci (Chinese poetry)'
+- !lcc 'PL'
+title: 六一詞
+url: http://www.gutenberg.org/ebooks/25218
